@@ -1,0 +1,6 @@
+{
+  "name": "Sanskar Valley International School",
+  "description": "Progressive Web App portal for Sanskar Valley International School featuring Management, Teacher, and Student panels with systematic daily homework archive, previous dates filter, lesson planner, and WhatsApp group broadcasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
